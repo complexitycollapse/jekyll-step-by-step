@@ -24,6 +24,10 @@ Then you add the following to the created Gemfile
 
     gem "jekyll"
 
+or you can get bundle to do it
+
+    bundle add jekyll
+
 Then it should be possible to run the following to build the site:
 
     bundle exec jekyll build
